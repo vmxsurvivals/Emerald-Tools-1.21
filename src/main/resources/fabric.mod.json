@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "emeraldtools",
+	"version": "${version}",
+	"name": "Emerald Tools",
+	"assets": {
+		"include": ["assets/emeraldtools/"]
+	},
+	"description": "Adds New Emerald Set to the game!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/vmxsurvivals/Emerald-Tools"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/emeraldtools/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.vmxtl.emeraldtools.EmeraldTools"
+		],
+		"fabric-datagen": [
+			"net.vmxtl.emeraldtools.EmeraldToolsDataGenerator"
+		],
+		"client":[
+			"net.vmxtl.emeraldtools.EmeraldToolsClient"
+		]
+	},
+	"mixins": [
+		"emeraldtools.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

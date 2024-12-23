@@ -1,0 +1,12 @@
+// 1.21	2024-12-23T14:02:45.7773439	Emerald Tools/Tags for minecraft:item
+b13f9ce27836ced5b7c80a4ff644a688b7052c97 data\minecraft\tags\item\pickaxes.json
+149c5c0538c4bc08ba41f1e8b6d2a249a9692a84 data\minecraft\tags\item\hoes.json
+5b0b70a3d3886a2398b22d495e4539c3527967ed data\minecraft\tags\item\enchantable\foot_armor.json
+704205ec5f80dd030627114f5c48458b76906e5c data\minecraft\tags\item\enchantable\leg_armor.json
+aa53a5c7c07f1b52742b4f01df9966f0edf6aadf data\minecraft\tags\item\axes.json
+16fd5b0192ab3e777f30cda26dfbd752761331c9 data\minecraft\tags\item\enchantable\head_armor.json
+fead8bdcad78b90aa6d9bb8eb4b9a98b10125c89 data\minecraft\tags\item\enchantable\armor.json
+87133941c6cbb0cbd130a18083d31dbc5dd514af data\minecraft\tags\item\swords.json
+fead8bdcad78b90aa6d9bb8eb4b9a98b10125c89 data\minecraft\tags\item\trimmable_armor.json
+d00d01bd9d571ec032748806641cca3381727bd9 data\minecraft\tags\item\enchantable\chest_armor.json
+bbfbb1a7dc0743ed9cc9a0f8ace97b5ae9baf8e9 data\minecraft\tags\item\shovels.json
